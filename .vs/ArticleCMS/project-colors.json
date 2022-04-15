@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8dd1b45d-e27b-4079-9f00-cfce49a80353": {
+      "ProjectGuid": "8dd1b45d-e27b-4079-9f00-cfce49a80353",
+      "DisplayName": "ArticleCMS.WebApp",
+      "ColorIndex": 0
+    },
+    "632c7ec6-0b9f-4e86-be4c-d3d9ab475132": {
+      "ProjectGuid": "632c7ec6-0b9f-4e86-be4c-d3d9ab475132",
+      "DisplayName": "ArticleCMS.Dapper",
+      "ColorIndex": 1
+    },
+    "1f93ec8d-9277-49bd-ad7a-53ef861dd2c5": {
+      "ProjectGuid": "1f93ec8d-9277-49bd-ad7a-53ef861dd2c5",
+      "DisplayName": "ArticleCMS.Core",
+      "ColorIndex": 2
+    },
+    "fd20ae94-cb3c-4df8-8456-ccacb254415b": {
+      "ProjectGuid": "fd20ae94-cb3c-4df8-8456-ccacb254415b",
+      "DisplayName": "ArticleCMS.Service",
+      "ColorIndex": 3
+    },
+    "25c5c797-d166-45a7-9c35-b71508bc2c31": {
+      "ProjectGuid": "25c5c797-d166-45a7-9c35-b71508bc2c31",
+      "DisplayName": "ArticleCMS.Application",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

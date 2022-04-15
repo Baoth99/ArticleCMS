@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7oLRTdfX9Y+8hTQwzN6RyVBhJpCGj0RYMnJuocZ/OgfxlFo5ohJY9t4i5WA127zjkmscTqUtNXs6UIveZWI1KA==",
+  "success": true,
+  "projectFilePath": "D:\\Udacity\\ArticleCMS\\ArticleCMS.WebApp\\ArticleCMS.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
